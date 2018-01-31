@@ -1,2 +1,0 @@
-"# Samsungartik"
-안녕?
